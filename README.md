@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Realjohntsio
-- 👀 I’m interested in rockets
+- 👀 I’m interested in aviation
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me discord (johntsio_official#4902)
+- 📫 How to reach me discord (@realjohntsio)
 
 <!---
 Realjohntsio/Realjohntsio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
